@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ExcusesApp</string>
+    <string name="search_placeholder">Search an excuse</string>
+    <string name="lost">I\'m lost</string>
+    <string name="generate_an_excuse">Generate an excuse</string>
+    <string name="add_excuse">Add Excuse</string>
+    <string name="cancel">Cancel</string>
+    <string name="message">Message</string>
+    <string name="tag">Tag</string>
+    <string name="http_code">HTTP Code</string>
+    <string name="new_excuse">New excuse</string>
+</resources>
